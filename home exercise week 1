@@ -1,0 +1,10 @@
+print("Hello World")
+print("I am in my ISD class right now.")
+name=input("What is your name ?")
+print("Hello",name,",how are you")
+num1=int(input("Give me first number->"))
+num2=int(input("Give me second number->"))
+s=num1 + num2
+d=num1 - num2
+print("This is your number->",num1,num2)
+print(s,"(number1 + number2)",d,"number1 - number2")
